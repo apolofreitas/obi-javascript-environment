@@ -1,0 +1,14 @@
+{
+  "name": "obi.js",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon run"
+  },
+  "dependencies": {
+    "locutus": "^2.0.14",
+    "nodemon": "^2.0.6",
+    "sprintf-js": "^1.1.2"
+  }
+}
